@@ -29,5 +29,5 @@ I am currently exploring development using **Flutter**, embracing the evolving t
 
 ## 📂 My Projects  
 - ⭐ [All Starred Projects](https://github.com/Joenathan-15?tab=stars)  
-- 📁 [All My Repositories](https://github.com/Joenathan-15?tab=repository)
+- 📁 [All My Repositories](https://github.com/Joenathan-15?tab=repositories)
 
